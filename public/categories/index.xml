@@ -1,0 +1,75 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+  
+    <title>Categories on talz.net ⭐ </title>
+    <link>https://www.talz.net/categories/</link>
+    <description>Recent content in Categories on talz.net ⭐ </description>
+    <image>
+      <title>Categories on talz.net ⭐ </title>
+      <link>https://www.talz.net/categories/</link>
+      <url>https://source.unsplash.com/collection/983219/1080x720</url>
+    </image>
+    <ttl>1440</ttl>
+    <generator>After Dark 9.2.3 (Hugo 0.80.0)</generator>
+    <language>en-US</language>
+    <copyright>Powered by  &lt;a target=&#34;_blank&#34; rel=&#34;external noopener license&#34; href=&#34;https://discourse.gohugo.io&#34;&gt;Hugo&lt;/a&gt; hosted in &lt;a target=&#34;_blank&#34; rel=&#34;external noopener license&#34; href=&#34;https://upcloud.com/signup/?promo=4FJ798&#34;&gt;Upcloud&lt;/a&gt;. </copyright>
+    <lastBuildDate>Sat, 30 Jan 2021 03:29:22 UT</lastBuildDate>
+    <atom:link href="https://www.talz.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>collection</title>
+      <link>https://www.talz.net/categories/collection/</link>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/categories/collection/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>dev</title>
+      <link>https://www.talz.net/categories/dev/</link>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/categories/dev/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>security</title>
+      <link>https://www.talz.net/categories/security/</link>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/categories/security/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>cissp</title>
+      <link>https://www.talz.net/categories/cissp/</link>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/categories/cissp/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Windows Server</title>
+      <link>https://www.talz.net/categories/windows-server/</link>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/categories/windows-server/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>technology</title>
+      <link>https://www.talz.net/categories/technology/</link>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/categories/technology/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>gaming</title>
+      <link>https://www.talz.net/categories/gaming/</link>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/categories/gaming/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>

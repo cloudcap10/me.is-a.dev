@@ -1,0 +1,234 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+  
+    <title>windows on talz.net ⭐ </title>
+    <link>https://www.talz.net/tags/windows/</link>
+    <description>Recent content in windows on talz.net ⭐ </description>
+    <image>
+      <title>windows on talz.net ⭐ </title>
+      <link>https://www.talz.net/tags/windows/</link>
+      <url>https://source.unsplash.com/collection/983219/1080x720</url>
+    </image>
+    <ttl>1440</ttl>
+    <generator>After Dark 9.2.3 (Hugo 0.80.0)</generator>
+    <language>en-US</language>
+    <copyright>Powered by  &lt;a target=&#34;_blank&#34; rel=&#34;external noopener license&#34; href=&#34;https://discourse.gohugo.io&#34;&gt;Hugo&lt;/a&gt; hosted in &lt;a target=&#34;_blank&#34; rel=&#34;external noopener license&#34; href=&#34;https://upcloud.com/signup/?promo=4FJ798&#34;&gt;Upcloud&lt;/a&gt;. </copyright>
+    <lastBuildDate>Sat, 30 Jan 2021 03:29:22 UT</lastBuildDate>
+    <atom:link href="https://www.talz.net/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>January 2020 Security Updates</title>
+      <link>https://www.talz.net/patch/january-2020-security/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 UT</pubDate>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/patch/january-2020-security/</guid>
+      <description>Release Date: January 14, 2020</description>
+      <category domain="https://www.talz.net/categories/security">Security</category>
+      <content:encoded><![CDATA[Release Notes
+January 2020 Security Updates
+Release Date: January 14, 2020
+The January security release consists of security updates for the following software:
+  Microsoft Windows
+  Internet Explorer
+  Microsoft Office and Microsoft Office Services and Web Apps
+  ASP.NET Core
+  .NET Core
+  .NET Framework
+  OneDrive for Android
+  Microsoft Dynamics
+  Please note the following information regarding the security updates:
+  For information regarding enabling Windows 10, version 1909 features, please see Windows 10, version 1909 delivery options. Note that Windows 10, versions 1903 and 1909 share a common core operating system with an identical set of system files. They will also share the same security update KBs.
+  Windows 10 updates are cumulative. The monthly security release includes all security fixes for vulnerabilities that affect Windows 10, in addition to non-security updates. The updates are available via the Microsoft Update Catalog.
+  For information on lifecycle and support dates for Windows 10 operating systems, please see Windows Lifecycle Facts Sheet.
+  A list of the latest servicing stack updates for each operating system can be found in ADV990001. This list will be updated whenever a new servicing stack update is released. It is important to install the latest servicing stack update.
+  Starting in May 2019, Internet Explorer 11 is available on Windows Server 2012. This configuration is present only in the IE Cumulative package.
+  Updates for Windows RT 8.1 and Microsoft Office RT software are only available via Windows Update.
+  In addition to security changes for the vulnerabilities, updates include defense-in-depth updates to help improve security-related features.
+  Note: Support for Windows 7, Windows Server 2008 R2, and Windows Server 2008 ends January 14, 2020. For more information please see Lifecycle FAQ-Extended Security Updates.
+  The following CVEs have FAQs with additional information and may include * further steps to take after installing the updates. Please note that this is not a complete list of CVEs for this release.
+  CVE-2020-0601 *
+  CVE-2020-0607
+  CVE-2020-0608
+  CVE-2020-0609 *
+  CVE-2020-0610 *
+  CVE-2020-0612 *
+  CVE-2020-0615
+  CVE-2020-0622
+  CVE-2020-0637
+  CVE-2020-0639
+  CVE-2020-0643
+  CVE-2020-0647
+  CVE-2020-0650
+  CVE-2020-0651
+  CVE-2020-0652
+  CVE-2020-0653
+  CVE-2020-0654 *
+  Known Issues
+The following KBs contain information about known issues with the security updates. For a complete list of security update KBs, please see 20200114. For more information about Windows Known Issues, please see Windows message center (links to currently-supported versions of Windows are in the left pane).
+   KB Article Applies To     4534271 Windows 10, version 1607, Windows Server 2016   4534273 Windows 10, version 1809, Windows Server version 1809, Windows 10, version 1809, Windows Server version 1809   4534276 Windows 10, version 1709   4534283 Windows Server 2012 (Monthly Rollup)   4534288 Windows Server 2012 (Security-only update)   4534293 Windows 10, version 1803, Windows Server version 1803   4534297 Windows 8.1, Windows Server 2012 R2 (Monthly Rollup)   4534306 Windows 10   4534309 Windows 8.1, Windows Server 2012 R2 (Security-only update)    ]]></content:encoded>
+    </item>
+    <item>
+      <title>December 2019 Security Updates</title>
+      <link>https://www.talz.net/patch/december-2019-security/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 UT</pubDate>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/patch/december-2019-security/</guid>
+      <description>Release Date: December 10, 2019</description>
+      <category domain="https://www.talz.net/categories/security">Security</category>
+      <content:encoded><![CDATA[Release Notes
+December 2019 Security Updates
+Release Date: December 10, 2019
+The December security release consists of security updates for the following software:
+  Microsoft Windows
+  Internet Explorer
+  Microsoft Office and Microsoft Office Services and Web Apps
+  SQL Server
+  Visual Studio
+  Skype for Business
+  Please note the following information regarding the security updates:
+  For information regarding enabling Windows 10, version 1909 features, please see Windows 10, version 1909 delivery options. Note that Windows 10, versions 1903 and 1909 share a common core operating system with an identical set of system files. They will also share the same security update KBs.
+  Windows 10 updates are cumulative. The monthly security release includes all security fixes for vulnerabilities that affect Windows 10, in addition to non-security updates. The updates are available via the Microsoft Update Catalog.
+  For information on lifecycle and support dates for Windows 10 operating systems, please see Windows Lifecycle Facts Sheet.
+  A list of the latest servicing stack updates for each operating system can be found in ADV990001. This list will be updated whenever a new servicing stack update is released. It is important to install the latest servicing stack update.
+  Starting in May 2019, Internet Explorer 11 is available on Windows Server 2012. This configuration is present only in the IE Cumulative package.
+  Updates for Windows RT 8.1 and Microsoft Office RT software are only available via Windows Update.
+  In addition to security changes for the vulnerabilities, updates include defense-in-depth updates to help improve security-related features.
+  The following CVEs have FAQs with additional information and may include * further steps to take after installing the updates. Please note that this is not a complete list of CVEs for this release.
+  ADV990001
+  ADV190026 *
+  CVE-2019-1349 *
+  CVE-2019-1350 *
+  CVE-2019-1351 *
+  CVE-2019-1352 *
+  CVE-2019-1354 *
+  CVE-2019-1387 *
+  CVE-2019-1400
+  CVE-2019-1461
+  CVE-2019-1462
+  CVE-2019-1463
+  CVE-2019-1464
+  CVE-2019-1465
+  CVE-2019-1466
+  CVE-2019-1467
+  CVE-2019-1469
+  CVE-2019-1470
+  CVE-2019-1472
+  CVE-2019-1474
+  CVE-2019-1480
+  CVE-2019-1481
+  CVE-2019-1486 *
+  CVE-2019-1487
+  CVE-2019-1489
+  Known Issues
+The following KBs contain information about known issues with the security updates. For more information about Windows Known Issues, please see Windows message center (links to currently-supported versions of Windows are in the left pane).
+For a complete list of security update KBs, please see 20191210.
+   KB Article Applies To     4484190 Excel 2013   4484179 Excel 2016   4461590 PowerPoint 2013   4484190 PowerPoint 2016   4484190 Word 2013   4484190 Word 2016   4530681 Windows 10   4530684 Windows 10, version 1803, Windows Server version 1803, Windows 10, version 1809, Windows Server version 1809   4530689 Windows 10, version 1607, Windows Server 2016   4530691 Windows Server 2012 (Monthly Rollup)   4530698 Windows Server 2012 (Security-only update)   4530702 Windows 8.1, Windows Server 2012 R2 (Monthly Rollup)   4530714 Windows 10, version 1709   4530715 Windows 10, version 1809, Windows Server 2019   4530717 Windows 10, version 1803, Windows Server version 1803   4530730 Windows 8.1, Windows Server 2012 R2 (Security-only update)   4530734 Windows 7 SP1, Windows Server 2008 R2 SP1 (Monthly Rollup)    ]]></content:encoded>
+    </item>
+    <item>
+      <title>November 2019 Security Updates</title>
+      <link>https://www.talz.net/patch/november-2019-security/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 UT</pubDate>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/patch/november-2019-security/</guid>
+      <description>Release Date: November 12, 2019</description>
+      <category domain="https://www.talz.net/categories/security">Security</category>
+      <content:encoded><![CDATA[Release Notes
+Release Date: November 12, 2019
+The November security release consists of security updates for the following software:
+  Microsoft Windows
+  Internet Explorer
+  Microsoft Edge (EdgeHTML-based)
+  ChakraCore
+  Microsoft Office and Microsoft Office Services and Web Apps
+  Open Source Software
+  Microsoft Exchange Server
+  Visual Studio
+  Azure Stack
+  Please note the following information regarding the security updates:
+  A list of the latest servicing stack updates for each operating system can be found in ADV990001. This list will be updated whenever a new servicing stack update is released. It is important to install the latest servicing stack update.
+  Windows 10 updates are cumulative. The monthly security release includes all security fixes for vulnerabilities that affect Windows 10, in addition to non-security updates. The updates are available via the Microsoft Update Catalog.
+  Updates for Windows RT 8.1 and Microsoft Office RT software are only available via Windows Update.
+  For information on lifecycle and support dates for Windows 10 operating systems, please see Windows Lifecycle Facts Sheet.
+  In addition to security changes for the vulnerabilities, updates include defense-in-depth updates to help improve security-related features.
+  Starting in May 2019, Internet Explorer 11 is available on Windows Server 2012. This configuration is present only in the IE Cumulative package.
+  The following CVEs have FAQs with additional information and may include * further steps to take after installing the updates. Please note that this is not a complete list of CVEs for this release.
+  ADV190024 *
+  CVE-2018-12207 *
+  CVE-2019-11135 *
+  CVE-2019-1324
+  CVE-2019-1370
+  CVE-2019-1374
+  CVE-2019-1381
+  CVE-2019-1402
+  CVE-2019-1409
+  CVE-2019-1411
+  CVE-2019-1412
+  CVE-2019-1418
+  CVE-2019-1432
+  CVE-2019-1436
+  CVE-2019-1439
+  CVE-2019-1440
+  CVE-2019-1442 *
+  CVE-2019-1443
+  CVE-2019-1445
+  CVE-2019-1446
+  CVE-2019-1447
+  CVE-2019-1448
+  CVE-2019-1449
+  CVE-2019-1457
+  Known Issues
+The following KBs contain information about known issues with the security updates. For a complete list of security update KBs, please see 20191112
+   KB Article Applies To     4484113 Microsoft Exchange Server   4523171 Microsoft Exchange Server   4523205 Windows 10, version 1809, Windows Server 2019   4524570 Windows 10, version 1903, Windows Server version 1903   4525232 Windows 10   4525236 Windows 10, version 1607, Windows Server 2016   4525237 Windows 10, version 1803, Windows Server version 1803   4525241 Windows 10, version 1709   4525243 Windows 8.1, Windows Server 2012 R2 (Monthly Rollup)   4525246 Windows Server 2012 (Monthly Rollup)   4525250 Windows 8.1, Windows Server 2012 R2 (Security-only update)   4525253 Windows Server 2012 (Security-only update)    ]]></content:encoded>
+    </item>
+    <item>
+      <title>October 2019 Security Updates</title>
+      <link>https://www.talz.net/patch/october-2019-security/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 UT</pubDate>
+      <dc:creator> HD21749B ⭐️</dc:creator>
+      <guid>https://www.talz.net/patch/october-2019-security/</guid>
+      <description>Release Date: October 08, 2019</description>
+      <category domain="https://www.talz.net/categories/security">Security</category>
+      <content:encoded><![CDATA[Release Notes
+Release Date: October 08, 2019
+The October security release consists of security updates for the following software:
+  Microsoft Windows
+  Internet Explorer
+  Microsoft Edge (EdgeHTML-based)
+  ChakraCore
+  Microsoft Office and Microsoft Office Services and Web Apps
+  SQL Server Management Studio
+  Open Source Software
+  Microsoft Dynamics 365
+  Windows Update Assistant
+  Please note the following information regarding the security updates:
+  A list of the latest servicing stack updates for each operating system can be found in ADV990001. This list will be updated whenever a new servicing stack update is released. It is important to install the latest servicing stack update.
+  Windows 10 updates are cumulative. The monthly security release includes all security fixes for vulnerabilities that affect Windows 10, in addition to non-security updates. The updates are available via the Microsoft Update Catalog.
+  Updates for Windows RT 8.1 and Microsoft Office RT software are only available via Windows Update.
+  For information on lifecycle and support dates for Windows 10 operating systems, please see Windows Lifecycle Facts Sheet.
+  In addition to security changes for the vulnerabilities, updates include defense-in-depth updates to help improve security-related features.
+  Starting in May 2019, Internet Explorer 11 is available on Windows Server 2012. This configuration is present only in the IE Cumulative package.
+  The following CVEs have FAQs with additional information and may include * further steps to take after installing the updates. Please note that this is not a complete list of CVEs for this release.
+  CVE-2019-1070
+  CVE-2019-1230
+  CVE-2019-1313
+  CVE-2019-1314 *
+  CVE-2019-1327
+  CVE-2019-1328
+  CVE-2019-1329
+  CVE-2019-1330
+  CVE-2019-1331
+  CVE-2019-1334
+  CVE-2019-1337
+  CVE-2019-1344
+  CVE-2019-1345
+  CVE-2019-1358
+  CVE-2019-1359
+  CVE-2019-1361
+  CVE-2019-1363
+  CVE-2019-1369
+  CVE-2019-1378*
+  Known Issues
+The following KBs contain information about known issues with the security updates. For a complete list of security update KBs, please see 20191008
+   KB Article Applies To     4519338 Windows 10, version 1809, Windows Server 2019   4519974 Internet Explorer   4519976 Windows 7 Service Pack 1, Windows Server 2008 R2 Service Pack 1 (Monthly Rollup)   4519985 Windows Server 2012 (Security-only update)   4519990 Windows 8.1, Windows Server 2012 R2 (Security-only update)   4519998 Windows 10, version 1607, Windows Server 2016   4520004 Windows 10, version 1709   4520005 Windows 8.1, Windows Server 2012 R2 (Monthly Rollup)   4520007 Windows Server 2012 (Monthly Rollup)   4520008 Windows 10, version 1803, Windows Server version 1803   4520010 Windows 10, version 1703   4520011 Windows 10    ]]></content:encoded>
+    </item>
+  </channel>
+</rss>
