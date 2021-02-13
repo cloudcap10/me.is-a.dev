@@ -24,6 +24,8 @@ WordPress is pretty good for blogs and company websites. The primary objective t
 2. Migrate all relevant contents from the old site
 3. Setup facebook chat from the wesbite
 4. Change document root in the new website
+5. Wordpress Performance Optimization using CDN for Faster Delivery With Caching.
+
 
 # Features
  
