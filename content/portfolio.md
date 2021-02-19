@@ -38,9 +38,16 @@ WordPress is pretty good for blogs and company websites. The primary objective t
 7. About Page Layouts
 8. Header Variations
 
-**CheckPoint Quantum 6400 2X Virtual Systems**
+**CheckPoint Quantum 6400 VSX Cluster**
 
-Enables threat prevention capabilities at all points of the infrastructure, to prevent and block even the most advanced attacks, before they can disrupt business. 
+Checkpoint Enables threat prevention capabilities at all points of the infrastructure, to prevent and block even the most advanced attacks, before they can disrupt business. 
+
+# Work Involved
+
+1. Machine Authentication, User Authencation and 2FA Authentication configuration on the Checkpoint Gateway, the Checkpoint Security Gateway allows SSL VPN connections with machine and user authentication, and 2FA authentication. User authentication is using LDAP, machine authentication using OPSEC PKI and 2FA using Fortiauthenticator.
+2. Migrate all relevant firewall policy from Watchguard to Checkpoint
+3. Migrate Cisco ASA site-to-site to Checkpoint for 21 Fortinet Firewalls
+4. Configure 2 Tier firewalls using Checkpoint VSX
 
 **Selecting and Evaluating an IT Solution for New Site**
 
