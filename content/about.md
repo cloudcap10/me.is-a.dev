@@ -27,7 +27,7 @@ My website is filled with information that will solve both of those problems for
 {{< /hackcss-button >}}
 
 
- {{< cloakemail address="dark@talz.net" display="Send me a mail!" >}}
+ {{< cloakemail address="cloning@talz.net" display="Send me a mail!" >}}
 
 
 
