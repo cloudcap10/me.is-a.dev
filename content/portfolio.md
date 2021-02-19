@@ -1,14 +1,17 @@
 +++
 title = "portfolio"
 description = "Highlight some of my projects and key contributions from most to least recent."
-toc = true
+categories = ["portfolio"]
+tags = ["checkpoint", "security", "fortinet","Server", "network"]
+publishdate ="2021-02-19"
+lastmod = "2021-02-19"
+draft = false
 [menu.utility]
   identifier = "portfolio"
   weight = 2
   post = "<svg class=\"i-info\" viewBox=\"0 0 32 32\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"yellow\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3\"><path d=\"M16 14 L16 23 M16 8 L16 10\" /><circle cx=\"16\" cy=\"16\" r=\"14\" /></svg>"
 
 +++
-
 
 
 
