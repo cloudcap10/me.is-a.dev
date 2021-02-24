@@ -6,6 +6,8 @@ tags = ["checkpoint", "security", "fortinet","Server", "network"]
 publishdate ="2021-02-19"
 lastmod = "2021-02-19"
 draft = false
+[schema]
+  type = "Portfolio" # inside about.md
 [menu.utility]
   identifier = "portfolio"
   weight = 2

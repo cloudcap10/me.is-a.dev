@@ -1,6 +1,8 @@
 +++
 title = "about"
 description = "Information about me and the site "
+[schema]
+  type = "AboutPage" # inside about.md
 [menu.utility]
   identifier = "about"
   weight = 3
