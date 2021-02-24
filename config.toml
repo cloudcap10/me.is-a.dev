@@ -23,7 +23,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
 [params]
-  description = "A collection of awesome docs libraries, tutorials, guides, security, tools and other resources." # Suggested, controls default description meta
+  description = "Learn more about Cloud services for startups and Enterprises." # Suggested, controls default description meta
   author = " TalzCloning⭐️" # Optional, controls author name display on posts
   github = "https://github.com/talzcloning"
   hide_author = false # Optional, set true to hide author name on posts
